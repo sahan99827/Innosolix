@@ -63,19 +63,19 @@ window.addEventListener('scroll', function () {
 const teamMembers = [
     {
         id: 1,
-        name: "Rumeshi Bandara",
+        name: "Rasika Madushanka",
         role: "Team Leader",
         description: "System architecture and project management.",
-        image: "asset/image/Rumeshi.jpg",
+        image: "asset/image/Rasika.jpg",
         isLeader: true,
         padding: "0px 0px 15px 0px"
     },
     {
         id: 2,
-        name: "Rasika Madushanka",
+        name: "Jaya Shankar Karan",
         role: "Business Analyst",
         description: "Specializes in process optimization and requirement analysis for complex systems.",
-        image: "asset/image/Rasika.jpg",
+        image: "asset/image/karan.jpg",
         isLeader: false,
         padding: "0px 0px 200px 0px"
     },
@@ -108,10 +108,10 @@ const teamMembers = [
     },
     {
         id: 6,
-        name: "Jaya Shankar Karan",
+        name: "Rumeshi Bandara",
         role: "Data Analyst",
         description: "Transforms complex data into actionable insights for decision making.",
-        image: "asset/image/karan.jpg",
+        image: "asset/image/Rumeshi.jpg",
         isLeader: false,
         padding: "0px 0px 0px 0px"
     },
